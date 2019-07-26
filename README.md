@@ -4,6 +4,8 @@ Flutter Project
 
 Kalkulator simple Mobile App
 
+![Screenshot](https://user-images.githubusercontent.com/11708092/61951832-5e397300-afdc-11e9-937b-df51727b7954.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
